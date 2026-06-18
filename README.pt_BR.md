@@ -25,7 +25,7 @@
 
 Uma **arena de batalha arcade retrô** que coloca dois usuários do GitHub frente a frente comparando seus gráficos de contribuições. Digite qualquer par de nomes de usuário e assista ao drama pixelado se desenrolar.
 
-**Você vai de este template → um app completamente funcional** usando GitHub Copilot para cuidar de arquitetura, implementação, estilização e polimento.
+**Você vai deste template → um app completamente funcional** usando GitHub Copilot para cuidar de arquitetura, implementação, estilização e polimento.
 
 ---
 
